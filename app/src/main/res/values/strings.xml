@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Head Pose Detector</string>
+    <string name="head_pose_info">Head Pose Information</string>
+    <string name="yaw_label">Yaw (Horizontal):</string>
+    <string name="pitch_label">Pitch (Vertical):</string>
+    <string name="roll_label">Roll (Tilt):</string>
+    <string name="position_status">Position Status:</string>
+    <string name="not_available">N/A</string>
+    <string name="not_detected">Face not detected</string>
+    <string name="in_position">In Position</string>
+    <string name="not_in_position">Not in Position</string>
+    <string name="camera_permission_required">Camera permission is required for head pose detection</string>
+    <string name="face_overlay_description">Face position guide</string>
+</resources>
